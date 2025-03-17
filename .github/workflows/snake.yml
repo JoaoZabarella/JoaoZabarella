@@ -5,6 +5,8 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  
 jobs:
   build:
     name: Generate Snake
@@ -19,13 +21,13 @@ jobs:
         with:
           github_user_name: JoaoZabarella
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
