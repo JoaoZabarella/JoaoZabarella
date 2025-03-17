@@ -32,12 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joaozabarella&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozabarella&theme=dark" alt="GitHub Streak" />
 </p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/JoaoZabarella/JoaoZabarella/blob/output/.github/workflows/snake.yml" alt="snake animation" />
-</p>
-
 ## 📧 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
