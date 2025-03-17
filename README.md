@@ -12,12 +12,12 @@
 - 🌱 Improving my skills in **Java, Spring Boot, system architecture, performance optimization, design patterns, and cloud deployment with Docker, AWS, and Kafka**
 - 🎯 Interested in **high-performance applications, security, scalability, and SaaS development**
 - 💬 Ask me about **Java, Spring Boot, security best practices, API design, and performance optimization**
-- 📫 How to reach me: **jpzmuniz@gmail.com**
+- 📧 How to reach me: **jpzmuniz@gmail.com**
 
 ## 📌 Featured Projects
-🔹 **[TaskManager](https://github.com/JoaoZabarella/TaskManager)** – A Notion-inspired project management tool with robust security, API authentication, and task tracking.
+🔹 **[TaskManager](https://github.com/JoaoZabarella/AppTaskManager)** – A Notion-inspired project management tool with robust security, API authentication, and task tracking.
 
-🔹 **[Other Projects](https://joaozabarella.github.io/meu-site.github.io/)** – Explore more of my work!
+🔹 **[Vollmed.API](https://github.com/JoaoZabarella/Voll.Med)** – An API for scheduling and canceling appointments, enabling user and doctor management with robust security, authentication, and efficient appointment control. 
 
 ## 🛠️ Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,23 +29,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaozabarella&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaozabarella&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozabarella&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/JoaoZabarella/JoaoZabarella/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/JoaoZabarella/JoaoZabarella/blob/output/.github/workflows/snake.yml" alt="snake animation" />
 </p>
 
-## 📫 Connect with Me
+## 📧 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:jpzmuniz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jpzm12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpzm12" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jpzmuniz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
