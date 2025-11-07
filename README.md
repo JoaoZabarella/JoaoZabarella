@@ -1,38 +1,126 @@
 <h1 align="center">Hey there, I'm João Pedro Zabarella Muniz! 👋</h1>
-<h3 align="center">Back-end Java Developer | Passionate about Clean Code, System Architecture & Security</h3>
+<h3 align="center">Back-end & Full Stack Developer | Java • Spring • AWS • React • Node</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaozabarella&label=Profile%20views&color=cb0101&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/JoaoZabarella">
+    <img src="https://komarev.com/ghpvc/?username=joaozabarella&label=Profile%20views&color=cb0101&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jpzmuniz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+---
+
 ## 🚀 About Me
-- 💻 Currently working as a **Junior Back-end Developer** at [Racional Sistemas](https://www.racionalsistemas.com.br/)
-- 🎓 Studying **Analysis and Systems Development** at **Senac SP**
-- 🌱 Improving my skills in **Java, Spring Boot, system architecture, performance optimization, design patterns, and cloud deployment with Docker, AWS, and Kafka**
-- 🎯 Interested in **high-performance applications, security, scalability, and SaaS development**
-- 💬 Ask me about **Java, Spring Boot, security best practices, API design, and performance optimization**
-- 📧 How to reach me: **jpzmuniz@gmail.com**
 
-## 📌 Featured Projects
-🔹 **[TaskManager](https://github.com/JoaoZabarella/AppTaskManager)** – A Notion-inspired project management tool with robust security, API authentication, and task tracking.
+- 🏢 **Junior Back-End Developer @ [Racional Sistemas](https://www.racionalsistemas.com.br/)**
+- 🧑‍💻 **Micro-SaaS Architect & Full-Stack Developer @ Z&C Tech (Oct/2025–Present)**
+- 🎓 **Student: Analysis and Systems Development at Senac SP (2024–2026)**
+- 💼 **1+ year of professional experience building scalable systems and APIs**
 
-🔹 **[Vollmed.API](https://github.com/JoaoZabarella/Voll.Med)** – An API for scheduling and canceling appointments, enabling user and doctor management with robust security, authentication, and efficient appointment control. 
+I’m passionate about robust architectures, clean code, security, and high-performance, cloud-native applications. My main stack is **Java (Spring Boot)** for the backend, but I also deliver complete solutions with **React/TypeScript**, **Node.js**, and cloud DevOps.
 
-## 🛠️ Tech Stack & Tools
+---
+
+## 💼 Experience
+
+### Racional Sistemas — 02/2025–Present
+- Developed Java applications for the RACIMED system, optimizing performance and boosting efficiency by 15%.
+- Architected and deployed a complete web system for customer registration and management (Java Spring Boot, React TypeScript, AWS).
+- Created an internal mobile application for task management (React Native, TypeScript), reducing manual entry time by 3 hours per week.
+- Implemented CI/CD pipelines (GitHub Actions) to decrease deployment time by 40%.
+- Troubleshooted and resolved critical production issues, collaborating in agile (Scrum/Kanban) teams for ongoing improvements.
+
+### Z&C Tech — Micro-SaaS Architect & Full-Stack Developer | Java, Spring Boot, AWS, Angular, Microservices
+*Freelancer — Oct/2025 - Present — São Paulo/SP — Remote*
+
+Led end-to-end development of a new B2B Micro-SaaS platform aimed at streamlining commerce and optimizing excess material inventory (e.g., wood panels) for carpenters and suppliers.
+
+**Key Responsibilities and Technical Deliveries:**
+- **Architecture & Backend:** Defined microservices architecture and developed the application core using Java/Spring Boot.
+- **Security & Data:** Implemented robust security layers with Spring Security and managed data persistence with Spring Data JPA.
+- **Frontend:** Created and delivered the user interface (UI) with Angular, focusing on the MVP (Minimum Viable Product) for product listing and essential transactions.
+- **Cloud & DevOps:** Managed full AWS infrastructure setup, Docker containerization, and implemented CI/CD pipelines to ensure consistent, reliable deployments.
+- **Product Strategy:** Oversaw project management as chief stakeholder (first customer), shaping technical roadmap, feature priorities, and initial rollout strategy based on market analysis.
+
+🌟 Spring Boot, Spring Security and more.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-6C3483?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=github-actions&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
 
-## 📊 GitHub Stats
+#### **Other skills & topics**
+- Microservices | Distributed Systems | REST APIs | TDD | SCRUM/Kanban | Lambda | OOP | Frontend | Backend | Full-Stack | English
+
+---
+
+## 🏆 Certifications
+
+- Java and Spring Security: Protect Your Web Applications *(Alura)*
+- Spring Boot 3: Document, Test, and Prepare an API for Deployment *(Alura)*
+- Spring Boot 3: Apply Best Practices and Secure a REST API *(Alura)*
+- Java Data Persistence and Queries with Spring Data JPA *(Alura)*
+- Microservices *(Alura)*
+- **Currently studying:** AWS Certified Cloud Practitioner & Kafka
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [TaskManager](https://github.com/JoaoZabarella/AppTaskManager)
+*Internal mobile app for team task management*
+- Stack: **Java (Spring Boot)** | **React Native** | **TypeScript** | **MySQL** | **AWS**
+- Used by 20+ users, processes 1,000+ requests/day
+- Improved team productivity by **15%**
+- 99.9% uptime, automated with Docker
+
+### 🔹 [Customer Registration System](https://github.com/JoaoZabarella/CustomerRegistrationSystem) *(in development)*
+- Microservices, **Java Spring Boot** + **React/TypeScript**
+- 90% unit test coverage (JUnit/Mockito), secured via Spring Security
+- AWS RDS (PostgreSQL), EC2, S3, ECR, Docker
+
+### 🔹 [Vollmed.API](https://github.com/JoaoZabarella/Voll.Med)
+- REST API for appointment scheduling and management
+- Robust authentication, RBAC, best practices in security
+- Architecture focused on performance, extensibility, and maintainability
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaozabarella&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaozabarella&theme=dark" alt="GitHub Streak" />
 </p>
-## 📧 Connect with Me
+
+---
+
+## 📫 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -41,8 +129,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
