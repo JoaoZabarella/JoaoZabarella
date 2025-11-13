@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm João Pedro Zabarella Muniz! 👋</h1>
-<h3 align="center">Back-end & Full Stack Developer | Java • Spring • AWS • React • Node</h3>
+<h3 align="center">Full Stack Developer | Java • Spring • AWS • React • Node</h3>
 
 <p align="center">
   <a href="https://github.com/JoaoZabarella">
