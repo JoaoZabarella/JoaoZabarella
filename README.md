@@ -1,120 +1,112 @@
-<h1 align="center">Hey there, I'm João Pedro Zabarella Muniz! 👋</h1>
-<h3 align="center">Full Stack Developer | Java • Spring • AWS • React • Node</h3>
+<h1 align="center">João Pedro Zabarella Muniz</h1>
+<h3 align="center">Backend Developer Jr | Java • Spring Boot • SQL</h3>
 
 <p align="center">
   <a href="https://github.com/JoaoZabarella">
-    <img src="https://komarev.com/ghpvc/?username=joaozabarella&label=Profile%20views&color=cb0101&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=joaozabarella&label=Profile%20views&color=cb0101&style=flat" />
   </a>
-  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jpzm12/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:jpzmuniz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🏢 **Junior Back-End Developer @ [Racional Sistemas](https://www.racionalsistemas.com.br/)**
-- 🧑‍💻 **Micro-SaaS Architect & Full-Stack Developer @ Z&C Tech (Oct/2025–Present)**
-- 🎓 **Student: Analysis and Systems Development at Senac SP (2024–2026)**
-- 💼 **1+ year of professional experience building scalable systems and APIs**
-
-I’m passionate about robust architectures, clean code, security, and high-performance, cloud-native applications. My main stack is **Java (Spring Boot)** for the backend, but I also deliver complete solutions with **React/TypeScript**, **Node.js**, and cloud DevOps.
-
----
-
-## 💼 Experience
-
-### Racional Sistemas — 02/2025–Present
-- Developed Java applications for the RACIMED system, optimizing performance and boosting efficiency by 15%.
-- Architected and deployed a complete web system for customer registration and management (Java Spring Boot, React TypeScript, AWS).
-- Created an internal mobile application for task management (React Native, TypeScript), reducing manual entry time by 3 hours per week.
-- Implemented CI/CD pipelines (GitHub Actions) to decrease deployment time by 40%.
-- Troubleshooted and resolved critical production issues, collaborating in agile (Scrum/Kanban) teams for ongoing improvements.
-
-### Z&C Tech — Micro-SaaS Architect & Full-Stack Developer | Java, Spring Boot, AWS, Angular, Microservices
-*Freelancer — Oct/2025 - Present — São Paulo/SP — Remote*
-
-Led end-to-end development of a new B2B Micro-SaaS platform aimed at streamlining commerce and optimizing excess material inventory (e.g., wood panels) for carpenters and suppliers.
-
-**Key Responsibilities and Technical Deliveries:**
-- **Architecture & Backend:** Defined microservices architecture and developed the application core using Java/Spring Boot.
-- **Security & Data:** Implemented robust security layers with Spring Security and managed data persistence with Spring Data JPA.
-- **Frontend:** Created and delivered the user interface (UI) with Angular, focusing on the MVP (Minimum Viable Product) for product listing and essential transactions.
-- **Cloud & DevOps:** Managed full AWS infrastructure setup, Docker containerization, and implemented CI/CD pipelines to ensure consistent, reliable deployments.
-- **Product Strategy:** Oversaw project management as chief stakeholder (first customer), shaping technical roadmap, feature priorities, and initial rollout strategy based on market analysis.
-
-🌟 Spring Boot, Spring Security and more.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-6C3483?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=github-actions&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge)
-
-#### **Other skills & topics**
-- Microservices | Distributed Systems | REST APIs | TDD | SCRUM/Kanban | Lambda | OOP | Frontend | Backend | Full-Stack | English
-
----
-
-## 🏆 Certifications
-
-- Java and Spring Security: Protect Your Web Applications *(Alura)*
-- Spring Boot 3: Document, Test, and Prepare an API for Deployment *(Alura)*
-- Spring Boot 3: Apply Best Practices and Secure a REST API *(Alura)*
-- Java Data Persistence and Queries with Spring Data JPA *(Alura)*
-- Microservices *(Alura)*
-- **Currently studying:** AWS Certified Cloud Practitioner & Kafka
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [TaskManager](https://github.com/JoaoZabarella/AppTaskManager)
-*Internal mobile app for team task management*
-- Stack: **Java (Spring Boot)** | **React Native** | **TypeScript** | **MySQL** | **AWS**
-- Used by 20+ users, processes 1,000+ requests/day
-- Improved team productivity by **15%**
-- 99.9% uptime, automated with Docker
-
-### 🔹 [Customer Registration System](https://github.com/JoaoZabarella/CustomerRegistrationSystem) *(in development)*
-- Microservices, **Java Spring Boot** + **React/TypeScript**
-- 90% unit test coverage (JUnit/Mockito), secured via Spring Security
-- AWS RDS (PostgreSQL), EC2, S3, ECR, Docker
-
-### 🔹 [Vollmed.API](https://github.com/JoaoZabarella/Voll.Med)
-- REST API for appointment scheduling and management
-- Robust authentication, RBAC, best practices in security
-- Architecture focused on performance, extensibility, and maintainability
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jpzm12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jpzmuniz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jpzmuniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## About
+
+Backend Developer Jr with hands-on experience building and maintaining **Java / Spring Boot REST APIs** in real business systems.
+
+I work mainly with **SQL databases**, code refactoring, basic CI/CD pipelines and support for applications running in production environments.  
+I value **clear code, predictable behavior and technically justified decisions**.
+
+---
+
+## Experience
+
+### Backend Developer Jr — Racional Sistemas (Feb/2025 – Present)
+
+- Backend development for **RACIMED**, a system in the healthcare domain.
+- Implementation and maintenance of **REST APIs using Java and Spring Boot**.
+- Integration with **SQL databases** using Spring Data JPA.
+- Code refactoring and query adjustments focused on maintainability and clarity.
+- Support for production environments: log analysis, bug investigation and fixes.
+- Collaboration in **CI/CD pipelines** using GitHub Actions.
+- Participation in agile teams (Scrum / Kanban).
+
+---
+
+### Backend Developer Jr — Micro-SaaS B2B (Freelance, 2025 – Present)
+
+- Participation in the development of a **B2B Micro-SaaS** application.
+- Backend APIs built with **Java, Spring Boot and PostgreSQL**.
+- Authentication and authorization implemented with **Spring Security**.
+- Application containerized with **Docker** and deployed on **AWS (EC2, RDS, S3)**.
+- Occasional collaboration on the frontend using **Angular**, mainly API integration.
+
+---
+
+## Tech Stack (Primary)
+
+- **Java**, **Spring Boot**, **Spring Security**
+- **REST APIs**, **JPA / Hibernate**
+- **PostgreSQL**, **MySQL**, **SQL**
+- **Docker**, **GitHub Actions**, **CI/CD**
+- **Git**, Agile methodologies
+- English (technical)
+
+---
+
+## Featured Projects
+
+### 🔹 Voll.Med API
+REST API for medical appointment management.
+
+- Java + Spring Boot
+- Authentication and authorization with Spring Security
+- SQL database with JPA
+- Focus on clean structure and backend best practices
+
+### 🔹 TaskManager (Internal App)
+Internal task management application.
+
+- Backend: Java + Spring Boot
+- Mobile frontend: React Native
+- Database: MySQL
+- Dockerized application
+
+### 🔹 Customer Registration System (Study Project)
+Backend-focused study project.
+
+- REST API with Java and Spring Boot
+- Spring Security
+- PostgreSQL
+- Unit tests with JUnit and Mockito
+- CI/CD with GitHub Actions
+
+---
+
+## Education
+
+**Analysis and Systems Development**  
+Centro Universitário Senac — 2024–2026
+
+---
+
+## Courses
+
+- Spring Boot 3 — REST API Development (Alura)
+- Java & Spring Security (Alura)
+- Spring Data JPA (Alura)
+- Microservices fundamentals (Alura)
+- Kafka (in progress)
+- AWS Cloud Practitioner (in progress)
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jpzm12
+- Email: jpzmuniz@gmail.com
